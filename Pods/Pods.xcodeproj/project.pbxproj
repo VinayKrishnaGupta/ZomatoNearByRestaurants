@@ -1,0 +1,1529 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0358B918CA8C9D3C214FD4D41CD69A90 = {
+			isa = PBXBuildFile;
+			fileRef = 2EDC82E26C0F346EB4C7A4C4C5A0E864;
+		};
+		045FFEDD819A734271DD5DE53C877884 = {
+			isa = PBXBuildFile;
+			fileRef = F28310C109F80A2823B80B134627E5D8;
+		};
+		07C643D56A9472ED9133A0A1A10641E2 = {
+			isa = PBXBuildFile;
+			fileRef = AD99BA3F9F6DF74F1CC0DF6F95E466CE;
+		};
+		0A08FC71C4E3B8E0F8734BCDA7CCA7CB = {
+			isa = PBXBuildFile;
+			fileRef = E71FC5436C29FCEB72394E7117726B8F;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		14CD3DFB4A25BAEFB205730FA6750025 = {
+			isa = PBXBuildFile;
+			fileRef = 1246CB48952FF37C1DB54894C46F6390;
+		};
+		15460ABD372C937E2A07A2FCDF98C473 = {
+			isa = PBXBuildFile;
+			fileRef = 4D925E789318555435D0DBEF9BEC8015;
+		};
+		17912D9A89FC36E82029409E9B74A61A = {
+			isa = PBXBuildFile;
+			fileRef = 1B0A15003DCEEBA4FDF7ABE901F172CE;
+		};
+		19E6319F6ECED7539AABBD9A211F7AEC = {
+			isa = PBXBuildFile;
+			fileRef = 18A6CC7151721E485930D715056633ED;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		1A142A1EDFB32E4A341F44F334ACE206 = {
+			isa = PBXBuildFile;
+			fileRef = 80FF44178312A86C7B9C1F8431F75735;
+		};
+		23415204AA48A02959E4E5245CF96037 = {
+			isa = PBXBuildFile;
+			fileRef = 42EAD270211F301E809EA7C39D05A3DC;
+		};
+		2359387620C5E815BF0594BC40311734 = {
+			isa = PBXBuildFile;
+			fileRef = 18B9DCDB5BE79C17D786D046D23A6C8F;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		30DA0B928C8F28E3C3F279C3833458A0 = {
+			isa = PBXBuildFile;
+			fileRef = 80FF44178312A86C7B9C1F8431F75735;
+		};
+		311E5200832E4AE174A193851A2C6317 = {
+			isa = PBXBuildFile;
+			fileRef = 3B8C2F3F38AC8B05D07C9BAACD044EAD;
+		};
+		322FB60121F25C5BCBF8C278E70F95F0 = {
+			isa = PBXBuildFile;
+			fileRef = 80FF44178312A86C7B9C1F8431F75735;
+		};
+		326A543AD4E39A2DAECA1CD385E3AEA2 = {
+			isa = PBXBuildFile;
+			fileRef = 8B17FF80B117EDDFBD41C5C3B5C1D217;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		3511AE7ADBB71D05565854F0E70B7D08 = {
+			isa = PBXBuildFile;
+			fileRef = 525066ED64B26EC45F9B2AD4D3B0D1B2;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		38EEA9ED6B922946C54AD6BAC93B73AD = {
+			isa = PBXBuildFile;
+			fileRef = D0F90194E52430599383549278FEA918;
+		};
+		3939531EB270B4145C7ADFBAB2E5695F = {
+			isa = PBXBuildFile;
+			fileRef = AFF2CC19E35B6A289DF5C325A6C2B4E7;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		43098B12DF5546CB576986E68DBCAFCA = {
+			isa = PBXBuildFile;
+			fileRef = 4852ABEFD7FFFAE072C5835CCDB22279;
+		};
+		4BA19F7DD8F9FDA648137B2CE89E7588 = {
+			isa = PBXBuildFile;
+			fileRef = FE9DC137B1B02C802E7ABBECC9401A7B;
+		};
+		5D52DB6DF2E6C24CECB0015A9177A2E1 = {
+			isa = PBXBuildFile;
+			fileRef = 1207584E6BDCF4C846A1DDFE0BCFEECF;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		6065442649AB939C18340B5B38BCEBBC = {
+			isa = PBXBuildFile;
+			fileRef = 80FF44178312A86C7B9C1F8431F75735;
+		};
+		650FFDAF60A6C37D824BC6364B09A3E5 = {
+			isa = PBXBuildFile;
+			fileRef = 343DFBED3469B92704E04E700E1DFF67;
+		};
+		6EC97BDB3FC508526F9E388095A7DDCC = {
+			isa = PBXBuildFile;
+			fileRef = C23C3983ADC1EBC0A6AD3D68F3DBC4BA;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		78940A6980F359C4304C695EF6E67C5D = {
+			isa = PBXBuildFile;
+			fileRef = 516F3F2A9B24B2E2092E84E8EAF0A9F7;
+		};
+		7F0578A0258E02384F6229C678E60D31 = {
+			isa = PBXBuildFile;
+			fileRef = CC618B900858F4F77C2746363E77B86C;
+		};
+		830050886B18F54E17F117FD8EFC717B = {
+			isa = PBXBuildFile;
+			fileRef = E451FBBEE5D302A74D966AC502CE5B19;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		85FAB6F1D2FE0598BF2E61D7BB084B8D = {
+			isa = PBXBuildFile;
+			fileRef = 20CB1302DD85B80CBADE42E436CF5930;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		8E82178CC9BD8BE3DBF2C10E33807AEB = {
+			isa = PBXBuildFile;
+			fileRef = D2792B01BCFFB8C68B0CE56421B99A2F;
+		};
+		A8FC6A53F6C1CB4DEFD972664E1AF3B1 = {
+			isa = PBXBuildFile;
+			fileRef = 14F2B0D3DD13B76429F713F1F1A1CC6F;
+		};
+		ACE9C1A6E8D5121C6C5F907C7A9CFCC9 = {
+			isa = PBXBuildFile;
+			fileRef = 78C774AEA3474BF09AD285C28E701D5F;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		AD359A96DD4AA2C962E50A5CD5524F54 = {
+			isa = PBXBuildFile;
+			fileRef = 51204DFB5BF601D556D71C3736263351;
+		};
+		B0BE398350F83A7B0102C3BBAFC51428 = {
+			isa = PBXBuildFile;
+			fileRef = 0E9837C7FFCFC4203B1BAADAADD8E206;
+		};
+		B51AA1F7701DCDBCC9B88A15320F9C2C = {
+			isa = PBXBuildFile;
+			fileRef = 8946DE00AC08571F0D4A4F985A8FA609;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		B5CF67F7870BAB70A76E57479B706B42 = {
+			isa = PBXBuildFile;
+			fileRef = 036FDD48539129C05AAE4C9ACA312100;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		C1B65C3D849FEE4FB5298A8135A765DA = {
+			isa = PBXBuildFile;
+			fileRef = C0DC8653B61F64B5FC03BFC2B0A6E528;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		C2201E34603B014192F0967473518496 = {
+			isa = PBXBuildFile;
+			fileRef = 1E990D35FEF51D7420F303E35DCBE1F6;
+		};
+		C710E1EEC39B16FD423938C79BB1D538 = {
+			isa = PBXBuildFile;
+			fileRef = C8DCE95237EB94969B57F63F4FFB0DF8;
+		};
+		D31FEE51AF4BE2A6CC059F80B983CD3B = {
+			isa = PBXBuildFile;
+			fileRef = 8006E5A6F0951AA637FFA7F53DBA00D9;
+		};
+		DFDAC8245626953C4BCE5A2DA6BE2A5B = {
+			isa = PBXBuildFile;
+			fileRef = 0401DF9E61B17C3AE9FE93347CCD9E64;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		E212C2AA95E8F6EFB69A5F1455F291F8 = {
+			isa = PBXBuildFile;
+			fileRef = BFD303D6F6C659A55A8684008D1476CB;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		ED69D9B5A342FE9BD3F170D5CDDEC948 = {
+			isa = PBXBuildFile;
+			fileRef = 357FC25AA9F2E82213C986CE50969E1A;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		F3774B1449FCE5B3CA3E1B336E11D284 = {
+			isa = PBXBuildFile;
+			fileRef = 42C03FCF30AB48A3B8DC805A289477E2;
+			settings = {
+				ATTRIBUTES = (
+					Public,
+				);
+			};
+		};
+		FCDDD3BC67EA205C87238A2A87D5C36C = {
+			isa = PBXBuildFile;
+			fileRef = 809E0EE6429DA2700D30D5F8F46F4100;
+		};
+		FD2B48A4E35FE446C6D27DC95ADF7F33 = {
+			isa = PBXBuildFile;
+			fileRef = 578767DAF017BA0C335FDE34A08756CB;
+		};
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F7CC9122C1C5AA61A4897B8DF305EE8C = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E;
+			proxyType = 1;
+			remoteGlobalIDString = 928353533005A4198EBDA5B700D37B64;
+			remoteInfo = AFNetworking;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		036FDD48539129C05AAE4C9ACA312100 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIWebView+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIWebView+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		0401DF9E61B17C3AE9FE93347CCD9E64 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFSecurityPolicy.h;
+			path = AFNetworking/AFSecurityPolicy.h;
+			sourceTree = "<group>";
+		};
+		07861EC8EBD195B8A34430126273E8B0 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.script.sh;
+			path = "Pods-ZomatoRestaurantSearchByLocationTests-resources.sh";
+			sourceTree = "<group>";
+		};
+		0E9837C7FFCFC4203B1BAADAADD8E206 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIImageView+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIImageView+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		1207584E6BDCF4C846A1DDFE0BCFEECF = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIProgressView+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIProgressView+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		1246CB48952FF37C1DB54894C46F6390 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFAutoPurgingImageCache.m;
+			path = "UIKit+AFNetworking/AFAutoPurgingImageCache.m";
+			sourceTree = "<group>";
+		};
+		14673F01BA2ED5D126E93E99A45B2088 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			path = "AFNetworking-prefix.pch";
+			sourceTree = "<group>";
+		};
+		14F2B0D3DD13B76429F713F1F1A1CC6F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "AFNetworking-dummy.m";
+			sourceTree = "<group>";
+		};
+		18A6CC7151721E485930D715056633ED = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFAutoPurgingImageCache.h;
+			path = "UIKit+AFNetworking/AFAutoPurgingImageCache.h";
+			sourceTree = "<group>";
+		};
+		18B9DCDB5BE79C17D786D046D23A6C8F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFURLRequestSerialization.h;
+			path = AFNetworking/AFURLRequestSerialization.h;
+			sourceTree = "<group>";
+		};
+		1928BA52922382265825DC539F8C9990 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.script.sh;
+			path = "Pods-ZomatoRestaurantSearchByLocation-frameworks.sh";
+			sourceTree = "<group>";
+		};
+		1B0A15003DCEEBA4FDF7ABE901F172CE = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = MobileCoreServices.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/MobileCoreServices.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		1E990D35FEF51D7420F303E35DCBE1F6 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFURLResponseSerialization.m;
+			path = AFNetworking/AFURLResponseSerialization.m;
+			sourceTree = "<group>";
+		};
+		20CB1302DD85B80CBADE42E436CF5930 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIKit+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIKit+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		2EDC82E26C0F346EB4C7A4C4C5A0E864 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Security.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Security.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		343DFBED3469B92704E04E700E1DFF67 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = SystemConfiguration.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/SystemConfiguration.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		357FC25AA9F2E82213C986CE50969E1A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFNetworkReachabilityManager.h;
+			path = AFNetworking/AFNetworkReachabilityManager.h;
+			sourceTree = "<group>";
+		};
+		36CDA88C6A64BB0EA43084C868936607 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.plist.xml;
+			path = "Pods-ZomatoRestaurantSearchByLocationUITests-acknowledgements.plist";
+			sourceTree = "<group>";
+		};
+		3A0F93FAAA2E6E935C62B5DCE0C3EA5C = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-ZomatoRestaurantSearchByLocationUITests.debug.xcconfig";
+			sourceTree = "<group>";
+		};
+		3B8C2F3F38AC8B05D07C9BAACD044EAD = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFSecurityPolicy.m;
+			path = AFNetworking/AFSecurityPolicy.m;
+			sourceTree = "<group>";
+		};
+		40F7B5EA59EC8DE8EEF078E3A5EECC3A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.plist.xml;
+			path = "Pods-ZomatoRestaurantSearchByLocationTests-acknowledgements.plist";
+			sourceTree = "<group>";
+		};
+		42C03FCF30AB48A3B8DC805A289477E2 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFHTTPSessionManager.h;
+			path = AFNetworking/AFHTTPSessionManager.h;
+			sourceTree = "<group>";
+		};
+		42EAD270211F301E809EA7C39D05A3DC = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFHTTPSessionManager.m;
+			path = AFNetworking/AFHTTPSessionManager.m;
+			sourceTree = "<group>";
+		};
+		4852ABEFD7FFFAE072C5835CCDB22279 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFNetworkReachabilityManager.m;
+			path = AFNetworking/AFNetworkReachabilityManager.m;
+			sourceTree = "<group>";
+		};
+		4D07E4958762D7DF4F1661E541DA73A8 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.script.sh;
+			path = "Pods-ZomatoRestaurantSearchByLocationTests-frameworks.sh";
+			sourceTree = "<group>";
+		};
+		4D925E789318555435D0DBEF9BEC8015 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIActivityIndicatorView+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		51204DFB5BF601D556D71C3736263351 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIWebView+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIWebView+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		516F3F2A9B24B2E2092E84E8EAF0A9F7 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIButton+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIButton+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		51EFEF76AB431361A238976336F02ABD = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = "libPods-ZomatoRestaurantSearchByLocationTests.a";
+			path = "libPods-ZomatoRestaurantSearchByLocationTests.a";
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		525066ED64B26EC45F9B2AD4D3B0D1B2 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFURLSessionManager.h;
+			path = AFNetworking/AFURLSessionManager.h;
+			sourceTree = "<group>";
+		};
+		53CF816BE38642AE154A6EB99556C12C = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.script.sh;
+			path = "Pods-ZomatoRestaurantSearchByLocation-resources.sh";
+			sourceTree = "<group>";
+		};
+		578767DAF017BA0C335FDE34A08756CB = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "Pods-ZomatoRestaurantSearchByLocation-dummy.m";
+			sourceTree = "<group>";
+		};
+		5DE43BE4E37495339458A59A8C4ECD9F = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = "libPods-ZomatoRestaurantSearchByLocation.a";
+			path = "libPods-ZomatoRestaurantSearchByLocation.a";
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		686AC6833FFF8CF8AB9848A0B6679FF3 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-ZomatoRestaurantSearchByLocation.release.xcconfig";
+			sourceTree = "<group>";
+		};
+		6AEFAF18F49BD6848D8A3B3F1D48CE7A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-ZomatoRestaurantSearchByLocationTests.release.xcconfig";
+			sourceTree = "<group>";
+		};
+		719619686ACD77CDF7981284760E285E = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-ZomatoRestaurantSearchByLocation.debug.xcconfig";
+			sourceTree = "<group>";
+		};
+		73011B6E852690360E6DE22F01335A95 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.script.sh;
+			path = "Pods-ZomatoRestaurantSearchByLocationUITests-resources.sh";
+			sourceTree = "<group>";
+		};
+		76F7A03EC4B444DF857B6C597A8DBE8E = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text;
+			path = "Pods-ZomatoRestaurantSearchByLocation-acknowledgements.markdown";
+			sourceTree = "<group>";
+		};
+		78C774AEA3474BF09AD285C28E701D5F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIRefreshControl+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		8006E5A6F0951AA637FFA7F53DBA00D9 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFImageDownloader.m;
+			path = "UIKit+AFNetworking/AFImageDownloader.m";
+			sourceTree = "<group>";
+		};
+		809E0EE6429DA2700D30D5F8F46F4100 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFURLSessionManager.m;
+			path = AFNetworking/AFURLSessionManager.m;
+			sourceTree = "<group>";
+		};
+		80FF44178312A86C7B9C1F8431F75735 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Foundation.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		8946DE00AC08571F0D4A4F985A8FA609 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFURLResponseSerialization.h;
+			path = AFNetworking/AFURLResponseSerialization.h;
+			sourceTree = "<group>";
+		};
+		8B17FF80B117EDDFBD41C5C3B5C1D217 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFImageDownloader.h;
+			path = "UIKit+AFNetworking/AFImageDownloader.h";
+			sourceTree = "<group>";
+		};
+		917927797F8743026801C78F44983F2A = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-ZomatoRestaurantSearchByLocationTests.debug.xcconfig";
+			sourceTree = "<group>";
+		};
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 = {
+			isa = PBXFileReference;
+			explicitFileType = text.script.ruby;
+			includeInIndex = 1;
+			lastKnownFileType = text;
+			name = Podfile;
+			path = ../Podfile;
+			sourceTree = SOURCE_ROOT;
+			xcLanguageSpecificationIdentifier = xcode.lang.ruby;
+		};
+		AD99BA3F9F6DF74F1CC0DF6F95E466CE = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "Pods-ZomatoRestaurantSearchByLocationTests-dummy.m";
+			sourceTree = "<group>";
+		};
+		AFF2CC19E35B6A289DF5C325A6C2B4E7 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFNetworkActivityIndicatorManager.h;
+			path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h";
+			sourceTree = "<group>";
+		};
+		BFD303D6F6C659A55A8684008D1476CB = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIButton+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIButton+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		C06D9AC2ACAAA11B3F2948C6CFCC2192 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = "libPods-ZomatoRestaurantSearchByLocationUITests.a";
+			path = "libPods-ZomatoRestaurantSearchByLocationUITests.a";
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C0DC8653B61F64B5FC03BFC2B0A6E528 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIImage+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIImage+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		C13337F8C14B4CA899741E570BA6E167 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			name = libAFNetworking.a;
+			path = libAFNetworking.a;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		C23C3983ADC1EBC0A6AD3D68F3DBC4BA = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIImageView+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIImageView+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		C57A73ACE8C09AA96915B561273FDA71 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.script.sh;
+			path = "Pods-ZomatoRestaurantSearchByLocationUITests-frameworks.sh";
+			sourceTree = "<group>";
+		};
+		C8DCE95237EB94969B57F63F4FFB0DF8 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			path = "Pods-ZomatoRestaurantSearchByLocationUITests-dummy.m";
+			sourceTree = "<group>";
+		};
+		CC618B900858F4F77C2746363E77B86C = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIRefreshControl+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIRefreshControl+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		D0F90194E52430599383549278FEA918 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = "UIProgressView+AFNetworking.m";
+			path = "UIKit+AFNetworking/UIProgressView+AFNetworking.m";
+			sourceTree = "<group>";
+		};
+		D1364E1A74FA884D5BCADB171DFE7353 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = AFNetworking.xcconfig;
+			sourceTree = "<group>";
+		};
+		D2792B01BCFFB8C68B0CE56421B99A2F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFURLRequestSerialization.m;
+			path = AFNetworking/AFURLRequestSerialization.m;
+			sourceTree = "<group>";
+		};
+		DA0167EA87D7076F4EF04CFB53085E93 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text;
+			path = "Pods-ZomatoRestaurantSearchByLocationUITests-acknowledgements.markdown";
+			sourceTree = "<group>";
+		};
+		DD57F571332F34AA2745DDE9878301C6 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.plist.xml;
+			path = "Pods-ZomatoRestaurantSearchByLocation-acknowledgements.plist";
+			sourceTree = "<group>";
+		};
+		E451FBBEE5D302A74D966AC502CE5B19 = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = "UIActivityIndicatorView+AFNetworking.h";
+			path = "UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h";
+			sourceTree = "<group>";
+		};
+		E656365CA2491CE1DA11797B8F9AECCB = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text;
+			path = "Pods-ZomatoRestaurantSearchByLocationTests-acknowledgements.markdown";
+			sourceTree = "<group>";
+		};
+		E71FC5436C29FCEB72394E7117726B8F = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.h;
+			name = AFNetworking.h;
+			path = AFNetworking/AFNetworking.h;
+			sourceTree = "<group>";
+		};
+		E8EC7488822D1F4294AE5AD80F448B3D = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = text.xcconfig;
+			path = "Pods-ZomatoRestaurantSearchByLocationUITests.release.xcconfig";
+			sourceTree = "<group>";
+		};
+		F28310C109F80A2823B80B134627E5D8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreGraphics.framework;
+			path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/CoreGraphics.framework;
+			sourceTree = DEVELOPER_DIR;
+		};
+		FE9DC137B1B02C802E7ABBECC9401A7B = {
+			isa = PBXFileReference;
+			includeInIndex = 1;
+			lastKnownFileType = sourcecode.c.objc;
+			name = AFNetworkActivityIndicatorManager.m;
+			path = "UIKit+AFNetworking/AFNetworkActivityIndicatorManager.m";
+			sourceTree = "<group>";
+		};
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		31F3D0C0113DA146F178E1A11CBDA89A = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A142A1EDFB32E4A341F44F334ACE206,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		508C962B3E08E8DA04956BF349A3CDFD = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				045FFEDD819A734271DD5DE53C877884,
+				30DA0B928C8F28E3C3F279C3833458A0,
+				17912D9A89FC36E82029409E9B74A61A,
+				0358B918CA8C9D3C214FD4D41CD69A90,
+				650FFDAF60A6C37D824BC6364B09A3E5,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		76EFBDF3D335E637B60FB455D9329896 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6065442649AB939C18340B5B38BCEBBC,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		83072809C12C9F7CD645E3EBB208F34B = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				322FB60121F25C5BCBF8C278E70F95F0,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0336952400392A094D9CF93F23FBA803 = {
+			isa = PBXGroup;
+			children = (
+				357FC25AA9F2E82213C986CE50969E1A,
+				4852ABEFD7FFFAE072C5835CCDB22279,
+			);
+			name = Reachability;
+			sourceTree = "<group>";
+		};
+		118C018DD63A7C9B85C796B9D7927B72 = {
+			isa = PBXGroup;
+			children = (
+				18B9DCDB5BE79C17D786D046D23A6C8F,
+				D2792B01BCFFB8C68B0CE56421B99A2F,
+				8946DE00AC08571F0D4A4F985A8FA609,
+				1E990D35FEF51D7420F303E35DCBE1F6,
+			);
+			name = Serialization;
+			sourceTree = "<group>";
+		};
+		13D2D82035894797E1E7C02E5BCC19CB = {
+			isa = PBXGroup;
+			children = (
+				E6329F605DEADA9ABB31E998BC2D7F0D,
+				6709F135D3A41D89064C83164803F9A8,
+				73CE7A295CFD743A6B1FB1D816E739DD,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		1C26585A924F80DB59965DD3B7AB0AD1 = {
+			isa = PBXGroup;
+			children = (
+				42C03FCF30AB48A3B8DC805A289477E2,
+				42EAD270211F301E809EA7C39D05A3DC,
+				525066ED64B26EC45F9B2AD4D3B0D1B2,
+				809E0EE6429DA2700D30D5F8F46F4100,
+			);
+			name = NSURLSession;
+			sourceTree = "<group>";
+		};
+		20B56609144CE204DFA8221F742B2D76 = {
+			isa = PBXGroup;
+			children = (
+				3193CAF693F496CF6BBAA7E0BCD76004,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2C186AA24E2640F4BC841D3813B8BAE7 = {
+			isa = PBXGroup;
+			children = (
+				D1364E1A74FA884D5BCADB171DFE7353,
+				14F2B0D3DD13B76429F713F1F1A1CC6F,
+				14673F01BA2ED5D126E93E99A45B2088,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/AFNetworking";
+			sourceTree = "<group>";
+		};
+		3193CAF693F496CF6BBAA7E0BCD76004 = {
+			isa = PBXGroup;
+			children = (
+				F28310C109F80A2823B80B134627E5D8,
+				80FF44178312A86C7B9C1F8431F75735,
+				1B0A15003DCEEBA4FDF7ABE901F172CE,
+				2EDC82E26C0F346EB4C7A4C4C5A0E864,
+				343DFBED3469B92704E04E700E1DFF67,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		641BDD347DE7B8BB81D6CA5727C6EC5A = {
+			isa = PBXGroup;
+			children = (
+				D8AEA08F300093373DE87ADAC55F71FA,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		64B71C384435C48FAA2EDD45AEDAF210 = {
+			isa = PBXGroup;
+			children = (
+				18A6CC7151721E485930D715056633ED,
+				1246CB48952FF37C1DB54894C46F6390,
+				8B17FF80B117EDDFBD41C5C3B5C1D217,
+				8006E5A6F0951AA637FFA7F53DBA00D9,
+				AFF2CC19E35B6A289DF5C325A6C2B4E7,
+				FE9DC137B1B02C802E7ABBECC9401A7B,
+				E451FBBEE5D302A74D966AC502CE5B19,
+				4D925E789318555435D0DBEF9BEC8015,
+				BFD303D6F6C659A55A8684008D1476CB,
+				516F3F2A9B24B2E2092E84E8EAF0A9F7,
+				C0DC8653B61F64B5FC03BFC2B0A6E528,
+				C23C3983ADC1EBC0A6AD3D68F3DBC4BA,
+				0E9837C7FFCFC4203B1BAADAADD8E206,
+				20CB1302DD85B80CBADE42E436CF5930,
+				1207584E6BDCF4C846A1DDFE0BCFEECF,
+				D0F90194E52430599383549278FEA918,
+				78C774AEA3474BF09AD285C28E701D5F,
+				CC618B900858F4F77C2746363E77B86C,
+				036FDD48539129C05AAE4C9ACA312100,
+				51204DFB5BF601D556D71C3736263351,
+			);
+			name = UIKit;
+			sourceTree = "<group>";
+		};
+		6709F135D3A41D89064C83164803F9A8 = {
+			isa = PBXGroup;
+			children = (
+				E656365CA2491CE1DA11797B8F9AECCB,
+				40F7B5EA59EC8DE8EEF078E3A5EECC3A,
+				AD99BA3F9F6DF74F1CC0DF6F95E466CE,
+				4D07E4958762D7DF4F1661E541DA73A8,
+				07861EC8EBD195B8A34430126273E8B0,
+				917927797F8743026801C78F44983F2A,
+				6AEFAF18F49BD6848D8A3B3F1D48CE7A,
+			);
+			name = "Pods-ZomatoRestaurantSearchByLocationTests";
+			path = "Target Support Files/Pods-ZomatoRestaurantSearchByLocationTests";
+			sourceTree = "<group>";
+		};
+		73CE7A295CFD743A6B1FB1D816E739DD = {
+			isa = PBXGroup;
+			children = (
+				DA0167EA87D7076F4EF04CFB53085E93,
+				36CDA88C6A64BB0EA43084C868936607,
+				C8DCE95237EB94969B57F63F4FFB0DF8,
+				C57A73ACE8C09AA96915B561273FDA71,
+				73011B6E852690360E6DE22F01335A95,
+				3A0F93FAAA2E6E935C62B5DCE0C3EA5C,
+				E8EC7488822D1F4294AE5AD80F448B3D,
+			);
+			name = "Pods-ZomatoRestaurantSearchByLocationUITests";
+			path = "Target Support Files/Pods-ZomatoRestaurantSearchByLocationUITests";
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73,
+				20B56609144CE204DFA8221F742B2D76,
+				641BDD347DE7B8BB81D6CA5727C6EC5A,
+				E1EE5E90D2923F8B6E904E19FCF35ACA,
+				13D2D82035894797E1E7C02E5BCC19CB,
+			);
+			sourceTree = "<group>";
+		};
+		D8AEA08F300093373DE87ADAC55F71FA = {
+			isa = PBXGroup;
+			children = (
+				E71FC5436C29FCEB72394E7117726B8F,
+				1C26585A924F80DB59965DD3B7AB0AD1,
+				0336952400392A094D9CF93F23FBA803,
+				E9A2D2E704D5128BD90065AA48D6522C,
+				118C018DD63A7C9B85C796B9D7927B72,
+				2C186AA24E2640F4BC841D3813B8BAE7,
+				64B71C384435C48FAA2EDD45AEDAF210,
+			);
+			name = AFNetworking;
+			path = AFNetworking;
+			sourceTree = "<group>";
+		};
+		E1EE5E90D2923F8B6E904E19FCF35ACA = {
+			isa = PBXGroup;
+			children = (
+				C13337F8C14B4CA899741E570BA6E167,
+				5DE43BE4E37495339458A59A8C4ECD9F,
+				51EFEF76AB431361A238976336F02ABD,
+				C06D9AC2ACAAA11B3F2948C6CFCC2192,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E6329F605DEADA9ABB31E998BC2D7F0D = {
+			isa = PBXGroup;
+			children = (
+				76F7A03EC4B444DF857B6C597A8DBE8E,
+				DD57F571332F34AA2745DDE9878301C6,
+				578767DAF017BA0C335FDE34A08756CB,
+				1928BA52922382265825DC539F8C9990,
+				53CF816BE38642AE154A6EB99556C12C,
+				719619686ACD77CDF7981284760E285E,
+				686AC6833FFF8CF8AB9848A0B6679FF3,
+			);
+			name = "Pods-ZomatoRestaurantSearchByLocation";
+			path = "Target Support Files/Pods-ZomatoRestaurantSearchByLocation";
+			sourceTree = "<group>";
+		};
+		E9A2D2E704D5128BD90065AA48D6522C = {
+			isa = PBXGroup;
+			children = (
+				0401DF9E61B17C3AE9FE93347CCD9E64,
+				3B8C2F3F38AC8B05D07C9BAACD044EAD,
+			);
+			name = Security;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		B981229135DBE9773A86BDB116C368D1 = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19E6319F6ECED7539AABBD9A211F7AEC,
+				F3774B1449FCE5B3CA3E1B336E11D284,
+				326A543AD4E39A2DAECA1CD385E3AEA2,
+				3939531EB270B4145C7ADFBAB2E5695F,
+				0A08FC71C4E3B8E0F8734BCDA7CCA7CB,
+				ED69D9B5A342FE9BD3F170D5CDDEC948,
+				DFDAC8245626953C4BCE5A2DA6BE2A5B,
+				2359387620C5E815BF0594BC40311734,
+				B51AA1F7701DCDBCC9B88A15320F9C2C,
+				3511AE7ADBB71D05565854F0E70B7D08,
+				830050886B18F54E17F117FD8EFC717B,
+				E212C2AA95E8F6EFB69A5F1455F291F8,
+				C1B65C3D849FEE4FB5298A8135A765DA,
+				6EC97BDB3FC508526F9E388095A7DDCC,
+				85FAB6F1D2FE0598BF2E61D7BB084B8D,
+				5D52DB6DF2E6C24CECB0015A9177A2E1,
+				ACE9C1A6E8D5121C6C5F907C7A9CFCC9,
+				B5CF67F7870BAB70A76E57479B706B42,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		928353533005A4198EBDA5B700D37B64 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 77CF2A7107BC61A2E90025871305961D;
+			buildPhases = (
+				DE0BAD758C6F291CE7E10DA077987C62,
+				508C962B3E08E8DA04956BF349A3CDFD,
+				B981229135DBE9773A86BDB116C368D1,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AFNetworking;
+			productName = AFNetworking;
+			productReference = C13337F8C14B4CA899741E570BA6E167;
+			productType = "com.apple.product-type.library.static";
+		};
+		B5B208DCAE32C5F9A53EC0BE6A3A186A = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E52E5B442C20250CD510175CFD416C15;
+			buildPhases = (
+				661C9D6CC6F36352DE0263A90B835AB9,
+				76EFBDF3D335E637B60FB455D9329896,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-ZomatoRestaurantSearchByLocationUITests";
+			productName = "Pods-ZomatoRestaurantSearchByLocationUITests";
+			productReference = C06D9AC2ACAAA11B3F2948C6CFCC2192;
+			productType = "com.apple.product-type.library.static";
+		};
+		D68889916F4AFE1CF38FF1217F702238 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7FEC71E82EBA7818838BCC457653D6FD;
+			buildPhases = (
+				95D4978219ECA7D6006288CE380592E9,
+				31F3D0C0113DA146F178E1A11CBDA89A,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8BF877115E3B3E2F5336BC6B2BC876CF,
+			);
+			name = "Pods-ZomatoRestaurantSearchByLocation";
+			productName = "Pods-ZomatoRestaurantSearchByLocation";
+			productReference = 5DE43BE4E37495339458A59A8C4ECD9F;
+			productType = "com.apple.product-type.library.static";
+		};
+		F20EF6860E16EEC132EF5A6D5190E855 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CE3B23BB85F09D475C8DF4E0AF242B71;
+			buildPhases = (
+				7FA3D38B17F6B0697EDB251C7328483C,
+				83072809C12C9F7CD645E3EBB208F34B,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-ZomatoRestaurantSearchByLocationTests";
+			productName = "Pods-ZomatoRestaurantSearchByLocationTests";
+			productReference = 51EFEF76AB431361A238976336F02ABD;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = E1EE5E90D2923F8B6E904E19FCF35ACA;
+			projectDirPath = "";
+			projectReferences = (
+			);
+			projectRoot = "";
+			targets = (
+				928353533005A4198EBDA5B700D37B64,
+				D68889916F4AFE1CF38FF1217F702238,
+				F20EF6860E16EEC132EF5A6D5190E855,
+				B5B208DCAE32C5F9A53EC0BE6A3A186A,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		661C9D6CC6F36352DE0263A90B835AB9 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C710E1EEC39B16FD423938C79BB1D538,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7FA3D38B17F6B0697EDB251C7328483C = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				07C643D56A9472ED9133A0A1A10641E2,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		95D4978219ECA7D6006288CE380592E9 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD2B48A4E35FE446C6D27DC95ADF7F33,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE0BAD758C6F291CE7E10DA077987C62 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14CD3DFB4A25BAEFB205730FA6750025,
+				23415204AA48A02959E4E5245CF96037,
+				D31FEE51AF4BE2A6CC059F80B983CD3B,
+				4BA19F7DD8F9FDA648137B2CE89E7588,
+				A8FC6A53F6C1CB4DEFD972664E1AF3B1,
+				43098B12DF5546CB576986E68DBCAFCA,
+				311E5200832E4AE174A193851A2C6317,
+				8E82178CC9BD8BE3DBF2C10E33807AEB,
+				C2201E34603B014192F0967473518496,
+				FCDDD3BC67EA205C87238A2A87D5C36C,
+				15460ABD372C937E2A07A2FCDF98C473,
+				78940A6980F359C4304C695EF6E67C5D,
+				B0BE398350F83A7B0102C3BBAFC51428,
+				38EEA9ED6B922946C54AD6BAC93B73AD,
+				7F0578A0258E02384F6229C678E60D31,
+				AD359A96DD4AA2C962E50A5CD5524F54,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8BF877115E3B3E2F5336BC6B2BC876CF = {
+			isa = PBXTargetDependency;
+			name = AFNetworking;
+			target = 928353533005A4198EBDA5B700D37B64;
+			targetProxy = F7CC9122C1C5AA61A4897B8DF305EE8C;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		034014829C1E4434983CF3A690C12017 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		329E0B49E7247310C180755CBB086AD5 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 686AC6833FFF8CF8AB9848A0B6679FF3;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		3BEA885B65ABCBBAFCFF4FC8FAAC0303 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 917927797F8743026801C78F44983F2A;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		3C51C0C1DF1AF101E0EF749B8E660489 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D1364E1A74FA884D5BCADB171DFE7353;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/AFNetworking/AFNetworking-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		C7E474A03CAE21F1CB6046E7344C59BD = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CFEE51D0266824AA9313DBC4905BCCFF = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E8EC7488822D1F4294AE5AD80F448B3D;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		D87117C3D02372D4C0951E92BF06C6F4 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 719619686ACD77CDF7981284760E285E;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		D8C269092CCAF21257CAD0FB7AD21460 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6AEFAF18F49BD6848D8A3B3F1D48CE7A;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		D9C97EB576CE94D4E00FD675005D2868 = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D1364E1A74FA884D5BCADB171DFE7353;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/AFNetworking/AFNetworking-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		E766871B2BC2401386978D2648EAE26B = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3A0F93FAAA2E6E935C62B5DCE0C3EA5C;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				034014829C1E4434983CF3A690C12017,
+				C7E474A03CAE21F1CB6046E7344C59BD,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		77CF2A7107BC61A2E90025871305961D = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9C97EB576CE94D4E00FD675005D2868,
+				3C51C0C1DF1AF101E0EF749B8E660489,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7FEC71E82EBA7818838BCC457653D6FD = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D87117C3D02372D4C0951E92BF06C6F4,
+				329E0B49E7247310C180755CBB086AD5,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CE3B23BB85F09D475C8DF4E0AF242B71 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BEA885B65ABCBBAFCFF4FC8FAAC0303,
+				D8C269092CCAF21257CAD0FB7AD21460,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E52E5B442C20250CD510175CFD416C15 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E766871B2BC2401386978D2648EAE26B,
+				CFEE51D0266824AA9313DBC4905BCCFF,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E;
+}

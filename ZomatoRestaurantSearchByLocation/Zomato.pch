@@ -1,0 +1,15 @@
+//
+//  Zomato.pch
+//  ZomatoRestaurantSearchByLocation
+//
+//  Created by IAUGMENTOR on 04/04/17.
+//  Copyright © 2017 Vinay Krishna Gupta. All rights reserved.
+//
+
+#ifndef Zomato_pch
+#define Zomato_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Zomato_pch */

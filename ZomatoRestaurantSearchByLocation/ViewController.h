@@ -7,8 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "AFNetworking.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
+@property (strong, nonatomic) IBOutlet UISearchBar *SearchBar;
+- (IBAction)SearchButton:(UIButton *)sender;
+@property (strong, nonatomic) IBOutlet UITableView *tableView;
 
 
 @end
