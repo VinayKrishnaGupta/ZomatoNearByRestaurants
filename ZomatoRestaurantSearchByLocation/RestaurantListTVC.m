@@ -8,9 +8,10 @@
 
 #import "RestaurantListTVC.h"
 #import "AFNetworking.h"
-
+#import "WebViewC.h"
 @interface RestaurantListTVC () {
     NSMutableArray *NearByRestaurantList;
+    NSString *RestaurantURL;
     
     
 }
@@ -85,9 +86,36 @@
     cell.textLabel.text = [dict valueForKey:@"name"];
     cell.detailTextLabel.text = [dict valueForKey:@"cuisines"];
     
+   // dispatch_async(dispatch_get_global_queue(0, 0), ^{
+        NSData *imagedata = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:[NSString stringWithFormat:@"%@",[dict valueForKey:@"thumb"]]]];
+         UIImage *Moduleimage = [[UIImage alloc]initWithData:imagedata];
+
+      //  cell.imageView.image = Moduleimage;
+    
+    cell.backgroundView = [[UIImageView alloc] initWithImage:Moduleimage];
+
+            
+    
     
     return cell;
 }
+
+-(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
+    NSDictionary *dict = [NearByRestaurantList objectAtIndex:indexPath.section];
+    RestaurantURL = [[NSString alloc]init];
+    RestaurantURL = [dict valueForKey:@"url"];
+    [self performSegueWithIdentifier:@"RestaurantDetails" sender:self];
+    
+    
+}
+
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
+    WebViewC *RestaurantList = segue.destinationViewController;
+    RestaurantList.URLString = RestaurantURL;
+    
+}
+
+
 
 
 @end

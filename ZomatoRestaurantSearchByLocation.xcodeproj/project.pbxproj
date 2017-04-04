@@ -17,6 +17,7 @@
 		6400F9FB1E93A486001BB1F4 /* ZomatoRestaurantSearchByLocationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6400F9FA1E93A486001BB1F4 /* ZomatoRestaurantSearchByLocationUITests.m */; };
 		6400FAF91E93A9A2001BB1F4 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6400FAEC1E93A996001BB1F4 /* AFNetworking.framework */; };
 		6400FAFD1E93B31B001BB1F4 /* RestaurantListTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6400FAFC1E93B31B001BB1F4 /* RestaurantListTVC.m */; };
+		6400FB011E93C108001BB1F4 /* WebViewC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6400FB001E93C108001BB1F4 /* WebViewC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -310,6 +311,8 @@
 		6400FACE1E93A996001BB1F4 /* UIWebView+AFNetworking.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIWebView+AFNetworking.m"; sourceTree = "<group>"; };
 		6400FAFB1E93B31B001BB1F4 /* RestaurantListTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RestaurantListTVC.h; sourceTree = "<group>"; };
 		6400FAFC1E93B31B001BB1F4 /* RestaurantListTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestaurantListTVC.m; sourceTree = "<group>"; };
+		6400FAFF1E93C108001BB1F4 /* WebViewC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewC.h; sourceTree = "<group>"; };
+		6400FB001E93C108001BB1F4 /* WebViewC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -369,6 +372,8 @@
 				6400F9DC1E93A486001BB1F4 /* ViewController.m */,
 				6400FAFB1E93B31B001BB1F4 /* RestaurantListTVC.h */,
 				6400FAFC1E93B31B001BB1F4 /* RestaurantListTVC.m */,
+				6400FAFF1E93C108001BB1F4 /* WebViewC.h */,
+				6400FB001E93C108001BB1F4 /* WebViewC.m */,
 				6400F9DE1E93A486001BB1F4 /* Main.storyboard */,
 				6400F9E11E93A486001BB1F4 /* Assets.xcassets */,
 				6400F9E31E93A486001BB1F4 /* LaunchScreen.storyboard */,
@@ -1096,6 +1101,7 @@
 			files = (
 				6400FAFD1E93B31B001BB1F4 /* RestaurantListTVC.m in Sources */,
 				6400F9DD1E93A486001BB1F4 /* ViewController.m in Sources */,
+				6400FB011E93C108001BB1F4 /* WebViewC.m in Sources */,
 				6400F9DA1E93A486001BB1F4 /* AppDelegate.m in Sources */,
 				6400F9D71E93A486001BB1F4 /* main.m in Sources */,
 			);
