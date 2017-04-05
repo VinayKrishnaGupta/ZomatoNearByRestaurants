@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'B5B208DCAE32C5F9A53EC0BE6A3A186A'
+               BlueprintIdentifier = '6E19D5246D32A08B2D2428F50AB73401'
                BlueprintName = 'Pods-ZomatoRestaurantSearchByLocationUITests'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libPods-ZomatoRestaurantSearchByLocationUITests.a'>

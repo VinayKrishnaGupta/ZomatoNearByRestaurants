@@ -90,6 +90,7 @@
         NSData *imagedata = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:[NSString stringWithFormat:@"%@",[dict valueForKey:@"thumb"]]]];
          UIImage *Moduleimage = [[UIImage alloc]initWithData:imagedata];
 
+    
       //  cell.imageView.image = Moduleimage;
     
     cell.backgroundView = [[UIImageView alloc] initWithImage:Moduleimage];

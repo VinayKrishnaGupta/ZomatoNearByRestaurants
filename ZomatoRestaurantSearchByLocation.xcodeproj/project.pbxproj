@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B1CE7199AD9D987249F9234 /* libPods-ZomatoRestaurantSearchByLocationTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B052B9BD77289ED1AEC7F7AE /* libPods-ZomatoRestaurantSearchByLocationTests.a */; };
+		257239AFE0808118BEF3DBDE /* libPods-ZomatoRestaurantSearchByLocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B97809B9BA147F12C6B2F510 /* libPods-ZomatoRestaurantSearchByLocation.a */; };
+		305EC142F7A3A40C3E7C8658 /* libPods-ZomatoRestaurantSearchByLocationUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 40E41F8BFF662FD06E33D160 /* libPods-ZomatoRestaurantSearchByLocationUITests.a */; };
 		6400F9D71E93A486001BB1F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6400F9D61E93A486001BB1F4 /* main.m */; };
 		6400F9DA1E93A486001BB1F4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6400F9D91E93A486001BB1F4 /* AppDelegate.m */; };
 		6400F9DD1E93A486001BB1F4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6400F9DC1E93A486001BB1F4 /* ViewController.m */; };
@@ -18,6 +21,7 @@
 		6400FAF91E93A9A2001BB1F4 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6400FAEC1E93A996001BB1F4 /* AFNetworking.framework */; };
 		6400FAFD1E93B31B001BB1F4 /* RestaurantListTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6400FAFC1E93B31B001BB1F4 /* RestaurantListTVC.m */; };
 		6400FB011E93C108001BB1F4 /* WebViewC.m in Sources */ = {isa = PBXBuildFile; fileRef = 6400FB001E93C108001BB1F4 /* WebViewC.m */; };
+		643CA1531E94B0D700294D90 /* libAFNetworking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 643CA1521E94B0D700294D90 /* libAFNetworking.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -136,6 +140,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		045054CF994D754F7E6E322A /* Pods-ZomatoRestaurantSearchByLocationUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZomatoRestaurantSearchByLocationUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocationUITests/Pods-ZomatoRestaurantSearchByLocationUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		0DDD22894206463C1C45229D /* Pods-ZomatoRestaurantSearchByLocation.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZomatoRestaurantSearchByLocation.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocation/Pods-ZomatoRestaurantSearchByLocation.release.xcconfig"; sourceTree = "<group>"; };
+		40E41F8BFF662FD06E33D160 /* libPods-ZomatoRestaurantSearchByLocationUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ZomatoRestaurantSearchByLocationUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6400F9D21E93A486001BB1F4 /* ZomatoRestaurantSearchByLocation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZomatoRestaurantSearchByLocation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6400F9D61E93A486001BB1F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6400F9D81E93A486001BB1F4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -313,6 +320,13 @@
 		6400FAFC1E93B31B001BB1F4 /* RestaurantListTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RestaurantListTVC.m; sourceTree = "<group>"; };
 		6400FAFF1E93C108001BB1F4 /* WebViewC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewC.h; sourceTree = "<group>"; };
 		6400FB001E93C108001BB1F4 /* WebViewC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewC.m; sourceTree = "<group>"; };
+		643CA1521E94B0D700294D90 /* libAFNetworking.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libAFNetworking.a; path = "Pods/../build/Debug-iphoneos/AFNetworking/libAFNetworking.a"; sourceTree = "<group>"; };
+		A5E654563C4574924CDC8ABB /* Pods-ZomatoRestaurantSearchByLocation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZomatoRestaurantSearchByLocation.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocation/Pods-ZomatoRestaurantSearchByLocation.debug.xcconfig"; sourceTree = "<group>"; };
+		B052B9BD77289ED1AEC7F7AE /* libPods-ZomatoRestaurantSearchByLocationTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ZomatoRestaurantSearchByLocationTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B97809B9BA147F12C6B2F510 /* libPods-ZomatoRestaurantSearchByLocation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ZomatoRestaurantSearchByLocation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C05DA2BB2F1A157E23A39868 /* Pods-ZomatoRestaurantSearchByLocationUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZomatoRestaurantSearchByLocationUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocationUITests/Pods-ZomatoRestaurantSearchByLocationUITests.release.xcconfig"; sourceTree = "<group>"; };
+		C6AB3FD943A7699DF2346AF2 /* Pods-ZomatoRestaurantSearchByLocationTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZomatoRestaurantSearchByLocationTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocationTests/Pods-ZomatoRestaurantSearchByLocationTests.release.xcconfig"; sourceTree = "<group>"; };
+		E848CEDA352CA135ED319972 /* Pods-ZomatoRestaurantSearchByLocationTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZomatoRestaurantSearchByLocationTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocationTests/Pods-ZomatoRestaurantSearchByLocationTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -320,7 +334,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				643CA1531E94B0D700294D90 /* libAFNetworking.a in Frameworks */,
 				6400FAF91E93A9A2001BB1F4 /* AFNetworking.framework in Frameworks */,
+				257239AFE0808118BEF3DBDE /* libPods-ZomatoRestaurantSearchByLocation.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -328,6 +344,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B1CE7199AD9D987249F9234 /* libPods-ZomatoRestaurantSearchByLocationTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,12 +352,26 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				305EC142F7A3A40C3E7C8658 /* libPods-ZomatoRestaurantSearchByLocationUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		29CA3C3D56B4D78C30D40B4D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A5E654563C4574924CDC8ABB /* Pods-ZomatoRestaurantSearchByLocation.debug.xcconfig */,
+				0DDD22894206463C1C45229D /* Pods-ZomatoRestaurantSearchByLocation.release.xcconfig */,
+				E848CEDA352CA135ED319972 /* Pods-ZomatoRestaurantSearchByLocationTests.debug.xcconfig */,
+				C6AB3FD943A7699DF2346AF2 /* Pods-ZomatoRestaurantSearchByLocationTests.release.xcconfig */,
+				045054CF994D754F7E6E322A /* Pods-ZomatoRestaurantSearchByLocationUITests.debug.xcconfig */,
+				C05DA2BB2F1A157E23A39868 /* Pods-ZomatoRestaurantSearchByLocationUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		6400F9C91E93A486001BB1F4 = {
 			isa = PBXGroup;
 			children = (
@@ -349,6 +380,7 @@
 				6400F9F91E93A486001BB1F4 /* ZomatoRestaurantSearchByLocationUITests */,
 				6400F9D31E93A486001BB1F4 /* Products */,
 				6400FA091E93A995001BB1F4 /* Frameworks */,
+				29CA3C3D56B4D78C30D40B4D /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -412,7 +444,11 @@
 		6400FA091E93A995001BB1F4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				643CA1521E94B0D700294D90 /* libAFNetworking.a */,
 				6400FA0A1E93A996001BB1F4 /* AFNetworking-master 2 */,
+				B97809B9BA147F12C6B2F510 /* libPods-ZomatoRestaurantSearchByLocation.a */,
+				B052B9BD77289ED1AEC7F7AE /* libPods-ZomatoRestaurantSearchByLocationTests.a */,
+				40E41F8BFF662FD06E33D160 /* libPods-ZomatoRestaurantSearchByLocationUITests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -855,9 +891,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6400F9FF1E93A486001BB1F4 /* Build configuration list for PBXNativeTarget "ZomatoRestaurantSearchByLocation" */;
 			buildPhases = (
+				F873F6D36908FE87DE734EC9 /* [CP] Check Pods Manifest.lock */,
 				6400F9CE1E93A486001BB1F4 /* Sources */,
 				6400F9CF1E93A486001BB1F4 /* Frameworks */,
 				6400F9D01E93A486001BB1F4 /* Resources */,
+				701A8FE2F5E556F244CFEA63 /* [CP] Embed Pods Frameworks */,
+				0467DF4864168E87A9724C32 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -872,9 +911,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6400FA021E93A486001BB1F4 /* Build configuration list for PBXNativeTarget "ZomatoRestaurantSearchByLocationTests" */;
 			buildPhases = (
+				3FD79EE98D3F1081E38705C2 /* [CP] Check Pods Manifest.lock */,
 				6400F9E71E93A486001BB1F4 /* Sources */,
 				6400F9E81E93A486001BB1F4 /* Frameworks */,
 				6400F9E91E93A486001BB1F4 /* Resources */,
+				D4B8DC1DCEB4119E8209044A /* [CP] Embed Pods Frameworks */,
+				64930496BB72897C89ECCD3B /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -890,9 +932,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6400FA051E93A486001BB1F4 /* Build configuration list for PBXNativeTarget "ZomatoRestaurantSearchByLocationUITests" */;
 			buildPhases = (
+				CB9047B876A6326EFAB62E7C /* [CP] Check Pods Manifest.lock */,
 				6400F9F21E93A486001BB1F4 /* Sources */,
 				6400F9F31E93A486001BB1F4 /* Frameworks */,
 				6400F9F41E93A486001BB1F4 /* Resources */,
+				AD0C70BF87C0265D0B4CD368 /* [CP] Embed Pods Frameworks */,
+				43BD6F0040BC11FDA5E9258E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -1094,6 +1139,144 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0467DF4864168E87A9724C32 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocation/Pods-ZomatoRestaurantSearchByLocation-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3FD79EE98D3F1081E38705C2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		43BD6F0040BC11FDA5E9258E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocationUITests/Pods-ZomatoRestaurantSearchByLocationUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		64930496BB72897C89ECCD3B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocationTests/Pods-ZomatoRestaurantSearchByLocationTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		701A8FE2F5E556F244CFEA63 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocation/Pods-ZomatoRestaurantSearchByLocation-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AD0C70BF87C0265D0B4CD368 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocationUITests/Pods-ZomatoRestaurantSearchByLocationUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CB9047B876A6326EFAB62E7C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D4B8DC1DCEB4119E8209044A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ZomatoRestaurantSearchByLocationTests/Pods-ZomatoRestaurantSearchByLocationTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F873F6D36908FE87DE734EC9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		6400F9CE1E93A486001BB1F4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -1288,11 +1471,17 @@
 		};
 		6400FA001E93A486001BB1F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A5E654563C4574924CDC8ABB /* Pods-ZomatoRestaurantSearchByLocation.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9KJ4J2KBAT;
 				INFOPLIST_FILE = ZomatoRestaurantSearchByLocation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/build/Debug-iphoneos/AFNetworking",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "Vinay-Krishna-Gupta.ZomatoRestaurantSearchByLocation";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -1300,11 +1489,17 @@
 		};
 		6400FA011E93A486001BB1F4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0DDD22894206463C1C45229D /* Pods-ZomatoRestaurantSearchByLocation.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 9KJ4J2KBAT;
 				INFOPLIST_FILE = ZomatoRestaurantSearchByLocation/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/build/Debug-iphoneos/AFNetworking",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = "Vinay-Krishna-Gupta.ZomatoRestaurantSearchByLocation";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -1312,6 +1507,7 @@
 		};
 		6400FA031E93A486001BB1F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E848CEDA352CA135ED319972 /* Pods-ZomatoRestaurantSearchByLocationTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = 9KJ4J2KBAT;
@@ -1325,6 +1521,7 @@
 		};
 		6400FA041E93A486001BB1F4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C6AB3FD943A7699DF2346AF2 /* Pods-ZomatoRestaurantSearchByLocationTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = 9KJ4J2KBAT;
@@ -1338,6 +1535,7 @@
 		};
 		6400FA061E93A486001BB1F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 045054CF994D754F7E6E322A /* Pods-ZomatoRestaurantSearchByLocationUITests.debug.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = 9KJ4J2KBAT;
 				INFOPLIST_FILE = ZomatoRestaurantSearchByLocationUITests/Info.plist;
@@ -1350,6 +1548,7 @@
 		};
 		6400FA071E93A486001BB1F4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C05DA2BB2F1A157E23A39868 /* Pods-ZomatoRestaurantSearchByLocationUITests.release.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = 9KJ4J2KBAT;
 				INFOPLIST_FILE = ZomatoRestaurantSearchByLocationUITests/Info.plist;
