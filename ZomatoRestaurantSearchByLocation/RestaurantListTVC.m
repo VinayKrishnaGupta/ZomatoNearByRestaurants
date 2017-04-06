@@ -86,14 +86,18 @@
     cell.textLabel.text = [dict valueForKey:@"name"];
     cell.detailTextLabel.text = [dict valueForKey:@"cuisines"];
     
-   // dispatch_async(dispatch_get_global_queue(0, 0), ^{
+    dispatch_async(dispatch_get_global_queue(0, 0), ^{
         NSData *imagedata = [[NSData alloc] initWithContentsOfURL:[NSURL URLWithString:[NSString stringWithFormat:@"%@",[dict valueForKey:@"thumb"]]]];
          UIImage *Moduleimage = [[UIImage alloc]initWithData:imagedata];
-
     
-      //  cell.imageView.image = Moduleimage;
+    dispatch_async(dispatch_get_main_queue(), ^{
+            // WARNING: is the cell still using the same data by this point??
+            cell.backgroundView = [[UIImageView alloc] initWithImage:Moduleimage];
+        });
+        
+    });
     
-    cell.backgroundView = [[UIImageView alloc] initWithImage:Moduleimage];
+    
 
             
     
